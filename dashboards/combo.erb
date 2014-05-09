@@ -1,13 +1,7 @@
-<script type='text/javascript'>
-$(function() {
-Dashing.gridsterLayout('[{"col":1,"row":1,"size_x":1,"size_y":1},{"col":1,"row":2,"size_x":1,"size_y":1},{"col":2,"row":1,"size_x":1,"size_y":1},{"col":2,"row":2,"size_x":1,"size_y":1},{"col":3,"row":1,"size_x":1,"size_y":1},{"col":3,"row":2,"size_x":1,"size_y":1},{"col":4,"row":1,"size_x":1,"size_y":1},{"col":4,"row":2,"size_x":1,"size_y":1}]')
-});
-</script>
-
 <div class="gridster">
   <ul>
-
-    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+  
+ <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
       <div data-id="nagios-triggered" data-view="Hotness" data-title="Nagios Triggered" data-cool="0" data-warm="2"></div>
     </li>
 
@@ -22,6 +16,19 @@ Dashing.gridsterLayout('[{"col":1,"row":1,"size_x":1,"size_y":1},{"col":1,"row":
     <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
       <div data-id="email-acknowledged" data-view="Hotness" data-title="Email ACK'd" data-cool="0" data-warm="2"></div>
     </li>    
+
+       <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="primary-name" data-view="Text" data-title="Primary Oncall" data-moreinfo="Fix all the incidents!"</div>
+    </li>    
+
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="backup-name" data-view="Text" data-title="Backup Oncall" data-moreinfo="No srsly fix 'em!"></div>
+    </li>
+
+      <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="daily_incidents" data-view="Hotness" data-title="Daily Incidents" data-cool="5" data-warm="15"></div>
+    </li>
+
 
 
   </ul>

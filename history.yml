@@ -61,3 +61,43 @@ acknowledged: ! 'data: {"value":0,"id":"acknowledged","updatedAt":1384318764}
 
 
 '
+api-triggered: ! 'data: {"value":0,"id":"api-triggered","updatedAt":1399657357}
+
+
+'
+api-acknowledged: ! 'data: {"value":0,"id":"api-acknowledged","updatedAt":1399657357}
+
+
+'
+daily_incidents: ! 'data: {"value":12,"id":"daily_incidents","updatedAt":1399657863}
+
+
+'
+monitorama-name: ! 'data: {"text":"Luke Skywalker","id":"monitorama-name","updatedAt":1399657357}
+
+
+'
+email-triggered: ! 'data: {"value":0,"id":"email-triggered","updatedAt":1399657863}
+
+
+'
+email-acknowledged: ! 'data: {"value":0,"id":"email-acknowledged","updatedAt":1399657863}
+
+
+'
+nagios-triggered: ! 'data: {"value":2,"id":"nagios-triggered","updatedAt":1399657863}
+
+
+'
+nagios-acknowledged: ! 'data: {"value":0,"id":"nagios-acknowledged","updatedAt":1399657863}
+
+
+'
+primary-name: ! 'data: {"text":"Luke Skywalker","id":"primary-name","updatedAt":1399657863}
+
+
+'
+backup-name: ! 'data: {"text":"Han Solo","id":"backup-name","updatedAt":1399657864}
+
+
+'
