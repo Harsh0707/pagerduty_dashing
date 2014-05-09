@@ -61,3 +61,44 @@ acknowledged: ! 'data: {"value":0,"id":"acknowledged","updatedAt":1384318764}
 
 
 '
+api-triggered: ! 'data: {"value":9,"id":"api-triggered","updatedAt":1399668994}
+
+
+'
+api-acknowledged: ! 'data: {"value":0,"id":"api-acknowledged","updatedAt":1399668994}
+
+
+'
+primary-name: ! 'data: {"text":"Luke Skywalker","id":"primary-name","updatedAt":1399668974}
+
+
+'
+daily_incidents: ! 'data: {"value":20,"id":"daily_incidents","updatedAt":1399668994}
+
+
+'
+email-triggered: ! 'data: {"value":0,"id":"email-triggered","updatedAt":1399668994}
+
+
+'
+email-acknowledged: ! 'data: {"value":0,"id":"email-acknowledged","updatedAt":1399668994}
+
+
+'
+backup-name: ! 'data: {"text":"Han Solo","id":"backup-name","updatedAt":1399668974}
+
+
+'
+assigned_to: ! 'data: {"text":"Incident PFFIREK assigned to Luke Skywalker: Meatball
+  sirloin flank do fugiat!!","id":"assigned_to","updatedAt":1399668882}
+
+
+'
+all-triggered: ! 'data: {"value":9,"id":"all-triggered","updatedAt":1399668989}
+
+
+'
+all-acknowledged: ! 'data: {"value":0,"id":"all-acknowledged","updatedAt":1399668989}
+
+
+'

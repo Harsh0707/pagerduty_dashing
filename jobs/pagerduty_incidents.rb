@@ -15,7 +15,7 @@ parsed_data['services'].each do |key, value|
   services[key] = value
 end
 
-SCHEDULER.every '30s' do
+SCHEDULER.every '5s' do
   services.each do |key, value|
 
     conn = Faraday.new(:url => "#{url}") do |faraday|
