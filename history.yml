@@ -117,23 +117,23 @@ monitorama: ! 'data: {"text":"David Shackelford","id":"monitorama","updatedAt":1
 
 
 '
-api-triggered: ! 'data: {"value":0,"id":"api-triggered","updatedAt":1399596489}
+api-triggered: ! 'data: {"value":0,"id":"api-triggered","updatedAt":1399596725}
 
 
 '
-api-acknowledged: ! 'data: {"value":0,"id":"api-acknowledged","updatedAt":1399596489}
+api-acknowledged: ! 'data: {"value":0,"id":"api-acknowledged","updatedAt":1399596725}
 
 
 '
-email-triggered: ! 'data: {"value":0,"id":"email-triggered","updatedAt":1399596489}
+email-triggered: ! 'data: {"value":0,"id":"email-triggered","updatedAt":1399596725}
 
 
 '
-email-acknowledged: ! 'data: {"value":0,"id":"email-acknowledged","updatedAt":1399596489}
+email-acknowledged: ! 'data: {"value":0,"id":"email-acknowledged","updatedAt":1399596725}
 
 
 '
-monitorama-name: ! 'data: {"text":"David Shackelford","id":"monitorama-name","updatedAt":1399596489}
+monitorama-name: ! 'data: {"text":"David Shackelford","id":"monitorama-name","updatedAt":1399596725}
 
 
 '
@@ -145,11 +145,11 @@ widget_id: ! 'data: {"id":"widget_id","updatedAt":1399490989}
 
 
 '
-response_time_1: ! 'data: {"value":214,"id":"response_time_1","updatedAt":1399596492}
+response_time_1: ! 'data: {"value":388,"id":"response_time_1","updatedAt":1399596727}
 
 
 '
-response_time_2: ! 'data: {"value":340,"id":"response_time_2","updatedAt":1399596492}
+response_time_2: ! 'data: {"value":160,"id":"response_time_2","updatedAt":1399596727}
 
 
 '
