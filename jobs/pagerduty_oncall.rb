@@ -13,7 +13,7 @@ parsed_data['schedules'].each do |key, value|
   schedules[key] = value
 end
 
-SCHEDULER.every '30s' do
+SCHEDULER.every '5s' do
   schedules.each do |key, value|
     conn = Faraday.new(:url => "#{url}") do |faraday|
       faraday.request :url_encoded

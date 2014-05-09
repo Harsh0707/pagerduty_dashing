@@ -61,3 +61,95 @@ acknowledged: ! 'data: {"value":0,"id":"acknowledged","updatedAt":1384318764}
 
 
 '
+Datadog-triggered: ! 'data: {"value":1,"id":"Datadog-triggered","updatedAt":1399420772}
+
+
+'
+Datadog-acknowledged: ! 'data: {"value":0,"id":"Datadog-acknowledged","updatedAt":1399420772}
+
+
+'
+yourservice2-triggered: ! 'data: {"value":3,"id":"yourservice2-triggered","updatedAt":1399420772}
+
+
+'
+yourservice2-acknowledged: ! 'data: {"value":0,"id":"yourservice2-acknowledged","updatedAt":1399420772}
+
+
+'
+yourservice3-triggered: ! 'data: {"value":0,"id":"yourservice3-triggered","updatedAt":1399420773}
+
+
+'
+yourservice3-acknowledged: ! 'data: {"value":0,"id":"yourservice3-acknowledged","updatedAt":1399420773}
+
+
+'
+yourservice4-triggered: ! 'data: {"value":0,"id":"yourservice4-triggered","updatedAt":1399420774}
+
+
+'
+yourservice4-acknowledged: ! 'data: {"value":0,"id":"yourservice4-acknowledged","updatedAt":1399420774}
+
+
+'
+API-triggered: ! 'data: {"value":0,"id":"API-triggered","updatedAt":1399422936}
+
+
+'
+API-acknowledged: ! 'data: {"value":1,"id":"API-acknowledged","updatedAt":1399422936}
+
+
+'
+Monitorama-name: ! 'data: {"text":"David Shackelford","id":"Monitorama-name","updatedAt":1399422897}
+
+
+'
+Email-triggered: ! 'data: {"value":0,"id":"Email-triggered","updatedAt":1399422683}
+
+
+'
+Email-acknowledged: ! 'data: {"value":0,"id":"Email-acknowledged","updatedAt":1399422683}
+
+
+'
+monitorama: ! 'data: {"text":"David Shackelford","id":"monitorama","updatedAt":1399422819}
+
+
+'
+api-triggered: ! 'data: {"value":0,"id":"api-triggered","updatedAt":1399596489}
+
+
+'
+api-acknowledged: ! 'data: {"value":0,"id":"api-acknowledged","updatedAt":1399596489}
+
+
+'
+email-triggered: ! 'data: {"value":0,"id":"email-triggered","updatedAt":1399596489}
+
+
+'
+email-acknowledged: ! 'data: {"value":0,"id":"email-acknowledged","updatedAt":1399596489}
+
+
+'
+monitorama-name: ! 'data: {"text":"David Shackelford","id":"monitorama-name","updatedAt":1399596489}
+
+
+'
+response_time: ! 'data: {"value":83,"id":"response_time","updatedAt":1399491160}
+
+
+'
+widget_id: ! 'data: {"id":"widget_id","updatedAt":1399490989}
+
+
+'
+response_time_1: ! 'data: {"value":214,"id":"response_time_1","updatedAt":1399596492}
+
+
+'
+response_time_2: ! 'data: {"value":340,"id":"response_time_2","updatedAt":1399596492}
+
+
+'
